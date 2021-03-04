@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0
+	github.com/casbin/casbin/v2 v2.24.0 // indirect
 	github.com/go-bindata/go-bindata v1.0.1-0.20190711162640-ee3c2418e368
 	github.com/go-openapi/inflect v0.19.0
 	github.com/go-sql-driver/mysql v1.5.1-0.20200311113236-681ffa848bae
